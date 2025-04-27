@@ -1,0 +1,9 @@
+pandas version 1.5.3
+numpy version 1.23.5
+seaborn version 0.12.2
+matplotlib version 3.7.1
+spacy version 3.6.1
+nltk version 3.8.1
+wordcloud version 1.9.2
+sklearn version 1.2.2
+spacy version 3.6.1
